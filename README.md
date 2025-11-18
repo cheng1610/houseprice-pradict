@@ -1,4 +1,4 @@
-## 芝加哥房價預測
+## 芝加哥郊區房價預測
 訓練資料來源: https://www.kaggle.com/datasets/tawfikelmetwally/chicago-house-price/data
 - Price(房價): price of house
 - Bedroom(臥室數): number of bedrooms
